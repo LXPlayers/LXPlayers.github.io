@@ -43,4 +43,11 @@ layout: default
             <a href="http://FriendAndFoeBGC.com" class="btn btn-primary">Website</a>
         </div>
     </div>
+    <div class="card" class="col-sm-4">
+        <img src="/img/SpellTable.png" class="card-img-top" alt="SpellTable">
+        <div class="card-body">
+            <p class="card-text">Simply the best way to play Commander online, we support them as Patrons as so should you!</p>
+            <a href="http://spelltable.com" class="btn btn-primary">Website</a>
+        </div>
+    </div>
 </div>
