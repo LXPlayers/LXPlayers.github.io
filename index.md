@@ -37,7 +37,7 @@ layout: default
 
 <div class="row">
     <div class="card" class="col-sm-4">
-        <img src="/img/FriendAndFoe.jpg" class="card-img-top" alt="Tim">
+        <img src="/img/FriendAndFoe.png" class="card-img-top" alt="Friend and Foe">
         <div class="card-body">
             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
         </div>
