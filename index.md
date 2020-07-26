@@ -40,7 +40,7 @@ layout: default
         <img src="/img/FriendAndFoe.png" class="card-img-top" alt="Friend and Foe">
         <div class="card-body">
             <p class="card-text">Friend & Foe run an amazing Cafe in the heart of Plano, TX near all of our regular hosts.  In addition they regularly provide free meals to medical workers, and others in need of free food.  If you are inclined to support those efforts, either drop in at the cafe if you're local to D/FW, or drop them a tip in their Digital Tip Jar on their ...</p>
-            <a href="http://FriendAndFoeBGC.com" class="button btn-primary">Website</a>
+            <a href="http://FriendAndFoeBGC.com" class="btn btn-primary">Website</a>
         </div>
     </div>
 </div>
