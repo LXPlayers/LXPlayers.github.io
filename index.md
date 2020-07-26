@@ -13,19 +13,19 @@ layout: default
 <h2>Our Regular Hosts</h2>
 
 <div class="row">
-    <div class="card" style="col-sm-4">
+    <div class="card" class="col-sm-4">
         <img src="/img/Tim-Square200.jpg" class="card-img-top" alt="Tim">
         <div class="card-body">
             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
         </div>
     </div>
-    <div class="card" style="col-sm-4">
+    <div class="card" class="col-sm-4">
         <img src="/img/Tim-Square200.jpg" class="card-img-top" alt="Sam">
         <div class="card-body">
             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
         </div>
     </div>
-    <div class="card" style="col-sm-4">
+    <div class="card" class="col-sm-4">
         <img src="/img/Tim-Square200.jpg" class="card-img-top" alt="Zach">
         <div class="card-body">
             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
