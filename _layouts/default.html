@@ -8,18 +8,19 @@
     <title>{{title | site.title}}</title>
   </head>
   <body>
-    <header>
-        <nav class="navbar navbar-dark bg-dark">
-            <a class="navbar-brand" href="#">
-                <img src="/LXPlayers.png" width="138" height="30" class="d-inline-block align-top" alt="" loading="lazy">
-                LXPlayers
-            </a>
-        </nav>
-    </header>
-    <main role="main">
-        <h1>Hello, world!</h1>
-    </main>
+    <div class="container">
+        <header>
+            <nav class="navbar navbar-dark bg-dark">
+                <a class="navbar-brand" href="#">
+                    <img src="/LXPlayers.png" width="138" height="30" class="d-inline-block align-top" alt="" loading="lazy">
+                </a>
+            </nav>
+        </header>
+        <main role="main">
+            {{ content }}
+        </main>
     <footer></footer>
+    </div>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
