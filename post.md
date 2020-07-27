@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 For fans of Magic the Gathering (MtG) this year has been challenging.  Large competitive gatherings have become completely unwise in the face of a global pandemic, and local game stores have been basically shutdown at the order of local and national governments.  The game has always thrived on having local gathering places, and large national & international festivals.  This has resulted in lots of changes, the first being to competitive tournaments, most all of whom have gone online using the popular [MTG Arena](https://magic.wizards.com/en/mtgarena) software which promises to be moving to mobile devices by the end of the year.  But for Magic's most popular format, Commander, this software doesn't help because they do not support multiplayer matches yet.
 
 For those who may not be familiar with Commander, it is a casual format of Magic the Gathering in which four players bring decks and battle against one another.  The decks have [specific construction rules](https://magic.wizards.com/en/content/commander-format) which must be followed, and result in each player have 100 card decks led by a Legendary Creature or occasionally Legendary Planeswalker.  This format is hugely popular because of its casual format and inclusion of cards from throughout Magic's history.  But with the outbreak of the pandemic, gathering 4 players around a table became impossible except for large families with multiple players.
